@@ -1,1 +1,2 @@
 meu endereço é Rua 1
+meu bairro é Bairro 2
